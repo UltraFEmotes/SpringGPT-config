@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "backend_url": "https://instruments-singles-preliminary-directed.trycloudflare.com",
-  "model": "Qwen/Qwen3-0.6B"
+  "backend_url": "https://playing-prayers-limit-bunny.trycloudflare.com",
+  "model": "LiquidAI/LFM3-1.7B"
 }
