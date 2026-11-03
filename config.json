@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "backend_url": "",
+  "enabled": true,
+  "backend_url": "https://instruments-singles-preliminary-directed.trycloudflare.com",
   "model": "Qwen/Qwen3-0.6B"
 }
